@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @garrett1998 or William Garrett White
+- 👀 I’m interested in web development and game design
+- 🌱 I’m currently learning python, javascript, and php
+- 💞️ I’m looking to collaborate on game design and programming projects
+- 📫 How to reach me email: wgw1998@gmail.com 
